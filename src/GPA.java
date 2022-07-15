@@ -29,7 +29,7 @@ public class GPA {
             grade = "B-";
         }
         else if (score >= 77) {
-            value = 3.3f;
+            value = 2.2f;
             grade = "C+";
         }
         else if (score >= 73) {
